@@ -1,3 +1,5 @@
+:tree-block-type: listing
+
 == Operaciones de Strings
 
 Este trabajo tiene tres partes, una de análisis comparativo, otra de desarrollo de operaciones, y una última de programas que aplican las operaciones desarrolladas.
