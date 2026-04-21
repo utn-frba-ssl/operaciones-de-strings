@@ -99,7 +99,7 @@ y no deben enviar nada a `stdout` ni a otro flujo.
 Esta última parte  consiste en desarrollar una serie de programas que esperan argumentos en su línea de comandos.
 Todos los programas envían su salida a `stdout`.
 
-- `enlineas`: Cada argumento en una línea propia.
+- `enlineas`: Muestra cada argumento en una línea propia.
 - `longitudes`: Longitud de cada argumento.
 - `mayorlongitud`: Argumento con mayor longitud.
 - `todosiguales`: Uno si son todos los argumentos iguales, si no, cero.
