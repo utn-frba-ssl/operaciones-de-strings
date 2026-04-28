@@ -141,7 +141,7 @@ El programa que prueba la biblioteca, por supuesto, incluye a `"String.h"`.
 === Productos
 [{tree-block-type}]
 --
-DD-Strings
+01-Strings
 |-- readme.md
 |-- AnálisisComparativo.md
 |-- String.md
@@ -162,4 +162,4 @@ DD-Strings
 === Referencias
 - <<KR1988>> B.6 Diagnósticos: `<assert.h>`
 - <<Interfaces>> Interfaces: Los Contratos entre Proveedores y Consumidores
-- <<KR1988>> 5.6 Argumentos de la línea de comandos.
+- <<KR1988>> 5.10 Argumentos de la línea de comandos.
