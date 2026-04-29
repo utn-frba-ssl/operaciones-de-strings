@@ -161,5 +161,7 @@ El programa que prueba la biblioteca, por supuesto, incluye a `"String.h"`.
 
 === Referencias
 - <<KR1988>> B.6 Diagnósticos: `<assert.h>`
-- <<Interfaces>> Interfaces: Los Contratos entre Proveedores y Consumidores
+[#Interfaces]
+- https://josemariasola.github.io/ssl/papers/Interfaces.pdf[Interfaces: Los Contratos entre Proveedores y Consumidores]
 - <<KR1988>> 5.10 Argumentos de la línea de comandos.
+
